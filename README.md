@@ -1,16 +1,15 @@
-# flutter_ornek7
+# Finally 
 
-A new Flutter project.
+try{ 
+}
 
-## Getting Started
+on Exception { 
 
-This project is a starting point for a Flutter application.
+}
 
-A few resources to get you started if this is your first Flutter project:
+finally {
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+// Temizlik için kullanıyoruz her türlü kod finally görüp bitiriyor kodu.  
+// Hata olsa da olmasada yakalansa da yakalanmasada calışır.  
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+} 
